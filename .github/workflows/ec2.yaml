@@ -32,3 +32,4 @@ jobs:
         run: |
           sleep 5  # Wait for service to start
           curl -f http://localhost:5000 || exit 1
+          
