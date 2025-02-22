@@ -3,7 +3,7 @@ name: flask ci-pipeline
 on:
     push:
         branches:
-            - main
+            - kuchh aur
 
 jobs:
     flask-app-1:
